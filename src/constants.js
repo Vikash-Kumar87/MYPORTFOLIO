@@ -16,7 +16,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 
 // Experience Section Logos
-import webverseLogo from './assets/company_logo/WEB.png';
+import webverseLogo from './assets/company_logo/ram.png';
 import agcLogo from './assets/company_logo/webdev.png';
 
 // Education Section Logos
